@@ -1,4 +1,1 @@
-# Bookbot
-
-Bookbot reposirtory.
-BookBot is my first git project!
+Just doing some boot.dev guided project
